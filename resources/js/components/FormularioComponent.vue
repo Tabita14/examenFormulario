@@ -145,6 +145,7 @@ export default {
 						title: "Oops...",
 						text: "Algo salió mal, intenta de nuevo",
 					});
+					this.btnDisabled = false;
 				});
 		},
 		validEmail: function (email) {

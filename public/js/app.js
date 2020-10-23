@@ -2049,6 +2049,8 @@ __webpack_require__.r(__webpack_exports__);
           title: "Oops...",
           text: "Algo salió mal, intenta de nuevo"
         });
+
+        _this.btnDisabled = false;
       });
     },
     validEmail: function validEmail(email) {
